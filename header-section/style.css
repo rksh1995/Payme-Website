@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+    gap: 40px;
+    font-size:32px;
+}
+.text-content{
+    width:70%;
+    margin-left:75px;
+}
+p{
+    font-size:18px;
+    color:#0d1157;
+    font-family: sans-serif;
+    line-height: 24px;
+    font-style: normal;
+    letter-spacing:2px;
+}
+h1{
+    color:#0d1157;
+    font-family: sans-serif;
+    
+}
+.image-container{
+    width:60%;
+    margin-right: 75px;
+}
+.image-container img{
+width: 100%;
+}
+.trip-btn{
+ 
+ margin-top:48px;
+ 
+}
+.trip-btn .btn-one{
+    border:1px solid white;
+    height:40px;
+    width:150px;
+    color: #0c78f2;
+    font-size: 15px;
+    font-weight: 600;
+}
+.trip-btn .get-started{
+    border: 1px solid white;
+    height:50px;
+    width:180px;
+    background-color:#0210d1;
+    color: white;
+    font-family:Arial;
+    font-size:18px;
+    font-weight:400;
+    border-radius:8px;
+    
+}
