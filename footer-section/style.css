@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+.footer {
+  display: flex;
+  justify-content: space-around;
+
+  background-color: #0b1e99;
+  color: white;
+  font-family: sans-serif;
+}
+.peyme {
+  margin-top: 140px;
+  font-size: 48px;
+}
+.copyright {
+  margin-top: 73px;
+  font-size: 10px;
+  line-height: 15px;
+}
+button {
+  width: 173px;
+  height: 33px;
+  color: #276bf2;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 7px;
+  border: 1px solid white;
+  margin-top: 50px;
+}
+.icons {
+  display: flex;
+  gap: 40px;
+  margin-top: 140px;
+  font-size: 24px;
+}
+.product-text {
+  margin-left: 24px;
+}
+.signup-para {
+  width: 60%;
+}
