@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+.pagination{
+    display: flex;
+    
+    width:92px;
+    height:30px;
+    margin:150px;
+    
+}
+.input-btn{
+    width:48px;
+    height: 25;
+    text-align: center;
+    border: 1px solid #d2d4d6;
+}
+button{
+    background-color: #0fa2f7;
+    border:1px solid #0fa2f7;
+    font-size:15px;
+    color: white;
+    
+    
+}

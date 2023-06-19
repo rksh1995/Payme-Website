@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    gap:64px;
+    color: #0a7ff5;
+    margin-left: 24px;
+    font-size:18px;
+    font-family: arial;
+    border-bottom: 1px solid #D7DBDD;
+}
+a{
+    text-decoration: none;
+}
+

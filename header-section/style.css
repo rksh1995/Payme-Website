@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.head-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #56727C;
+    color: white;
+    font-family: Arial;
+    font-weight:300;
+    margin: 5px;
+    padding:48px;
+}
+.left-side-section{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding-left:48px;
+}
+.right-container{
+    display: flex;
+    gap: 24px;
+    padding-right:48px;
+    
+}
+.inbox{
+    background-color:#5e5f61;
+    padding:8px;
+}
